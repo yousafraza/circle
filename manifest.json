@@ -1,0 +1,10 @@
+{
+    "manifestVersion": "2.0",
+    "id": "myCustomChart", 
+    "name": "My Custom Chart", 
+    "description": "A brief description of your visualization",
+    "resources": {
+      "js": ["viz.js"],
+      "css": ["style.css"]
+    }
+  } 
